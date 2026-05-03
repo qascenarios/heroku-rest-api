@@ -2,3 +2,7 @@
 Token/
 !Token/__init__.py
 !Token/Authentication.py.example
+heroku_Env/
+venv/
+__pycache__/
+*.pyc
