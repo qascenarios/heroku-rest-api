@@ -1,4 +1,4 @@
-# RestAPI Heroku App
+# Heroku App Rest API
 
 A Python REST API automation project that tests the [Restful Booker](https://restful-booker.herokuapp.com) API — a publicly available booking management API hosted on Heroku.
 
@@ -39,8 +39,8 @@ RestAPI_heroku_app/
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
-   cd RestAPI_heroku_app
+   git https://github.com/qascenarios/heroku-rest-api.git
+   cd heroku-rest-api
    ```
 
 2. (Optional) Create and activate a virtual environment:
