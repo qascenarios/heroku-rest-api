@@ -1,2 +1,4 @@
 .idea
-Token
+Token/
+!Token/__init__.py
+!Token/Authentication.py.example
